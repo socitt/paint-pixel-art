@@ -24,7 +24,9 @@ The script:
 import sys
 import subprocess
 import importlib.util
-
+import json
+import argparse
+from pathlib import Path
 
 # ------------------------------------------------------------
 # Automatically install Pillow if necessary
