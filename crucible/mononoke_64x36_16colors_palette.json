@@ -1,0 +1,208 @@
+{
+    "source": "mononoke.jpg",
+    "original_size": {
+        "width": 1920,
+        "height": 1080
+    },
+    "pixel_art_size": {
+        "width": 64,
+        "height": 36
+    },
+    "scale": 16,
+    "maximum_colors": 16,
+    "actual_colors": 16,
+    "palette": [
+        {
+            "index": 1,
+            "name": "Gray",
+            "rgb": {
+                "r": 132,
+                "g": 149,
+                "b": 170
+            },
+            "hex": "#8495AA",
+            "pixels": 209,
+            "percentage": 9.07
+        },
+        {
+            "index": 2,
+            "name": "Gray",
+            "rgb": {
+                "r": 127,
+                "g": 144,
+                "b": 165
+            },
+            "hex": "#7F90A5",
+            "pixels": 208,
+            "percentage": 9.03
+        },
+        {
+            "index": 3,
+            "name": "Beige",
+            "rgb": {
+                "r": 225,
+                "g": 226,
+                "b": 220
+            },
+            "hex": "#E1E2DC",
+            "pixels": 203,
+            "percentage": 8.81
+        },
+        {
+            "index": 4,
+            "name": "Gray",
+            "rgb": {
+                "r": 118,
+                "g": 113,
+                "b": 111
+            },
+            "hex": "#76716F",
+            "pixels": 164,
+            "percentage": 7.12
+        },
+        {
+            "index": 5,
+            "name": "Gray",
+            "rgb": {
+                "r": 117,
+                "g": 135,
+                "b": 154
+            },
+            "hex": "#75879A",
+            "pixels": 163,
+            "percentage": 7.07
+        },
+        {
+            "index": 6,
+            "name": "Light Gray",
+            "rgb": {
+                "r": 192,
+                "g": 197,
+                "b": 194
+            },
+            "hex": "#C0C5C2",
+            "pixels": 163,
+            "percentage": 7.07
+        },
+        {
+            "index": 7,
+            "name": "Gray",
+            "rgb": {
+                "r": 113,
+                "g": 129,
+                "b": 147
+            },
+            "hex": "#718193",
+            "pixels": 161,
+            "percentage": 6.99
+        },
+        {
+            "index": 8,
+            "name": "White",
+            "rgb": {
+                "r": 247,
+                "g": 249,
+                "b": 246
+            },
+            "hex": "#F7F9F6",
+            "pixels": 156,
+            "percentage": 6.77
+        },
+        {
+            "index": 9,
+            "name": "Black",
+            "rgb": {
+                "r": 11,
+                "g": 15,
+                "b": 12
+            },
+            "hex": "#0B0F0C",
+            "pixels": 149,
+            "percentage": 6.47
+        },
+        {
+            "index": 10,
+            "name": "Gray",
+            "rgb": {
+                "r": 121,
+                "g": 138,
+                "b": 158
+            },
+            "hex": "#798A9E",
+            "pixels": 149,
+            "percentage": 6.47
+        },
+        {
+            "index": 11,
+            "name": "Light Brown",
+            "rgb": {
+                "r": 176,
+                "g": 165,
+                "b": 146
+            },
+            "hex": "#B0A592",
+            "pixels": 149,
+            "percentage": 6.47
+        },
+        {
+            "index": 12,
+            "name": "Dark Gray",
+            "rgb": {
+                "r": 62,
+                "g": 56,
+                "b": 37
+            },
+            "hex": "#3E3825",
+            "pixels": 143,
+            "percentage": 6.21
+        },
+        {
+            "index": 13,
+            "name": "Light Gray",
+            "rgb": {
+                "r": 224,
+                "g": 208,
+                "b": 187
+            },
+            "hex": "#E0D0BB",
+            "pixels": 85,
+            "percentage": 3.69
+        },
+        {
+            "index": 14,
+            "name": "Gray",
+            "rgb": {
+                "r": 135,
+                "g": 138,
+                "b": 138
+            },
+            "hex": "#878A8A",
+            "pixels": 81,
+            "percentage": 3.52
+        },
+        {
+            "index": 15,
+            "name": "Dark Gray",
+            "rgb": {
+                "r": 86,
+                "g": 94,
+                "b": 86
+            },
+            "hex": "#565E56",
+            "pixels": 78,
+            "percentage": 3.39
+        },
+        {
+            "index": 16,
+            "name": "Gray",
+            "rgb": {
+                "r": 145,
+                "g": 155,
+                "b": 162
+            },
+            "hex": "#919BA2",
+            "pixels": 43,
+            "percentage": 1.87
+        }
+    ]
+}

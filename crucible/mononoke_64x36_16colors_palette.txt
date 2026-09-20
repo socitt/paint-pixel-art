@@ -1,0 +1,24 @@
+PIXEL ART PALETTE
+=================
+
+Source: mononoke.jpg
+Pixel dimensions: 64 x 36
+Maximum colors: 16
+Actual colors: 16
+
+ 1. Gray            #8495AA   RGB(132, 149, 170)   9.07%
+ 2. Gray            #7F90A5   RGB(127, 144, 165)   9.03%
+ 3. Beige           #E1E2DC   RGB(225, 226, 220)   8.81%
+ 4. Gray            #76716F   RGB(118, 113, 111)   7.12%
+ 5. Gray            #75879A   RGB(117, 135, 154)   7.07%
+ 6. Light Gray      #C0C5C2   RGB(192, 197, 194)   7.07%
+ 7. Gray            #718193   RGB(113, 129, 147)   6.99%
+ 8. White           #F7F9F6   RGB(247, 249, 246)   6.77%
+ 9. Black           #0B0F0C   RGB(11, 15, 12)   6.47%
+10. Gray            #798A9E   RGB(121, 138, 158)   6.47%
+11. Light Brown     #B0A592   RGB(176, 165, 146)   6.47%
+12. Dark Gray       #3E3825   RGB(62, 56, 37)   6.21%
+13. Light Gray      #E0D0BB   RGB(224, 208, 187)   3.69%
+14. Gray            #878A8A   RGB(135, 138, 138)   3.52%
+15. Dark Gray       #565E56   RGB(86, 94, 86)   3.39%
+16. Gray            #919BA2   RGB(145, 155, 162)   1.87%
