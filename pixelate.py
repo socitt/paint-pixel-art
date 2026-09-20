@@ -1,4 +1,5 @@
-mage -> Pixel Art Converter
+"""
+image -> Pixel Art Converter
 
 Examples:
 
