@@ -1,0 +1,16 @@
+PIXEL ART PALETTE
+=================
+
+Source: pinterest.png
+Pixel dimensions: 128 x 128
+Maximum colors: 8
+Actual colors: 8
+
+ 1. Orange          #FE9209   RGB(254, 146, 9)   18.51%
+ 2. Dark Pink       #FE037C   RGB(254, 3, 124)   16.06%
+ 3. Pink            #FC01D0   RGB(252, 1, 208)   14.15%
+ 4. Red             #FD4220   RGB(253, 66, 32)   12.00%
+ 5. Pink            #FD02AF   RGB(253, 2, 175)   11.38%
+ 6. Dark Pink       #F20C6F   RGB(242, 12, 111)   11.27%
+ 7. Light Yellow    #FFE69E   RGB(255, 230, 158)   8.45%
+ 8. Pink            #D804E3   RGB(216, 4, 227)   8.18%

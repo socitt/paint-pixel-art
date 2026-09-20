@@ -1,0 +1,112 @@
+{
+    "source": "pinterest.png",
+    "original_size": {
+        "width": 256,
+        "height": 256
+    },
+    "pixel_art_size": {
+        "width": 128,
+        "height": 128
+    },
+    "scale": 16,
+    "maximum_colors": 8,
+    "actual_colors": 8,
+    "palette": [
+        {
+            "index": 1,
+            "name": "Orange",
+            "rgb": {
+                "r": 254,
+                "g": 146,
+                "b": 9
+            },
+            "hex": "#FE9209",
+            "pixels": 3033,
+            "percentage": 18.51
+        },
+        {
+            "index": 2,
+            "name": "Dark Pink",
+            "rgb": {
+                "r": 254,
+                "g": 3,
+                "b": 124
+            },
+            "hex": "#FE037C",
+            "pixels": 2631,
+            "percentage": 16.06
+        },
+        {
+            "index": 3,
+            "name": "Pink",
+            "rgb": {
+                "r": 252,
+                "g": 1,
+                "b": 208
+            },
+            "hex": "#FC01D0",
+            "pixels": 2319,
+            "percentage": 14.15
+        },
+        {
+            "index": 4,
+            "name": "Red",
+            "rgb": {
+                "r": 253,
+                "g": 66,
+                "b": 32
+            },
+            "hex": "#FD4220",
+            "pixels": 1966,
+            "percentage": 12.0
+        },
+        {
+            "index": 5,
+            "name": "Pink",
+            "rgb": {
+                "r": 253,
+                "g": 2,
+                "b": 175
+            },
+            "hex": "#FD02AF",
+            "pixels": 1864,
+            "percentage": 11.38
+        },
+        {
+            "index": 6,
+            "name": "Dark Pink",
+            "rgb": {
+                "r": 242,
+                "g": 12,
+                "b": 111
+            },
+            "hex": "#F20C6F",
+            "pixels": 1847,
+            "percentage": 11.27
+        },
+        {
+            "index": 7,
+            "name": "Light Yellow",
+            "rgb": {
+                "r": 255,
+                "g": 230,
+                "b": 158
+            },
+            "hex": "#FFE69E",
+            "pixels": 1384,
+            "percentage": 8.45
+        },
+        {
+            "index": 8,
+            "name": "Pink",
+            "rgb": {
+                "r": 216,
+                "g": 4,
+                "b": 227
+            },
+            "hex": "#D804E3",
+            "pixels": 1340,
+            "percentage": 8.18
+        }
+    ]
+}
