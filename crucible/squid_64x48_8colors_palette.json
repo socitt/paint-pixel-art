@@ -1,0 +1,112 @@
+{
+    "source": "squid.jpg",
+    "original_size": {
+        "width": 1072,
+        "height": 800
+    },
+    "pixel_art_size": {
+        "width": 64,
+        "height": 48
+    },
+    "scale": 16,
+    "maximum_colors": 8,
+    "actual_colors": 8,
+    "palette": [
+        {
+            "index": 1,
+            "name": "Black",
+            "rgb": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "hex": "#000000",
+            "pixels": 1169,
+            "percentage": 38.05
+        },
+        {
+            "index": 2,
+            "name": "Gray",
+            "rgb": {
+                "r": 124,
+                "g": 97,
+                "b": 88
+            },
+            "hex": "#7C6158",
+            "pixels": 425,
+            "percentage": 13.83
+        },
+        {
+            "index": 3,
+            "name": "Light Gray",
+            "rgb": {
+                "r": 189,
+                "g": 186,
+                "b": 179
+            },
+            "hex": "#BDBAB3",
+            "pixels": 361,
+            "percentage": 11.75
+        },
+        {
+            "index": 4,
+            "name": "Black",
+            "rgb": {
+                "r": 3,
+                "g": 8,
+                "b": 7
+            },
+            "hex": "#030807",
+            "pixels": 319,
+            "percentage": 10.38
+        },
+        {
+            "index": 5,
+            "name": "Dark Brown",
+            "rgb": {
+                "r": 58,
+                "g": 33,
+                "b": 29
+            },
+            "hex": "#3A211D",
+            "pixels": 318,
+            "percentage": 10.35
+        },
+        {
+            "index": 6,
+            "name": "Black",
+            "rgb": {
+                "r": 0,
+                "g": 1,
+                "b": 1
+            },
+            "hex": "#000101",
+            "pixels": 246,
+            "percentage": 8.01
+        },
+        {
+            "index": 7,
+            "name": "Black",
+            "rgb": {
+                "r": 4,
+                "g": 1,
+                "b": 1
+            },
+            "hex": "#040101",
+            "pixels": 213,
+            "percentage": 6.93
+        },
+        {
+            "index": 8,
+            "name": "Black",
+            "rgb": {
+                "r": 0,
+                "g": 0,
+                "b": 1
+            },
+            "hex": "#000001",
+            "pixels": 21,
+            "percentage": 0.68
+        }
+    ]
+}
