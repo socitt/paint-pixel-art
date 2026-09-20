@@ -1,0 +1,16 @@
+PIXEL ART PALETTE
+=================
+
+Source: squid.jpg
+Pixel dimensions: 32 x 24
+Maximum colors: 8
+Actual colors: 8
+
+ 1. Black           #000000   RGB(0, 0, 0)   31.64%
+ 2. Dark Brown      #482C28   RGB(72, 44, 40)   13.02%
+ 3. Gray            #786259   RGB(120, 98, 89)   12.63%
+ 4. Light Gray      #B3ACA4   RGB(179, 172, 164)   12.24%
+ 5. Black           #040202   RGB(4, 2, 2)   11.46%
+ 6. Black           #000201   RGB(0, 2, 1)   9.24%
+ 7. Black           #090E0E   RGB(9, 14, 14)   8.85%
+ 8. Black           #000001   RGB(0, 0, 1)   0.91%
